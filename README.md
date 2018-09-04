@@ -1,4 +1,3 @@
-# gamevault
-Game Vault
+# GameVault
 
 https://christinecodes.github.io/gamevault/
