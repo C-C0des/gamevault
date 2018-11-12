@@ -1,3 +1,5 @@
 # GameVault
 
-https://christinecodes.github.io/gamevault/
+Collection of Games
+
+https://c-c0des.github.io/gamevault/
